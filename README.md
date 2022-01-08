@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ahmed-ITCS
+- 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CCNP security and few other programming languages
+- 🌱 I’m currently doing my hands-on on offensive security and learning solidity
 - 💞️ I’m looking to collaborate on whatever I can work on
 - 📫 How to reach me ...ahmed_khawar.80 on IG 
 
