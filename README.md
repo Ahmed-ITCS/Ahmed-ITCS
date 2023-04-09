@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineering Studying interested in DevOps
+I am Software Engineering student interested in DevOps
 
 
 ## 🌐 Socials:
