@@ -1,10 +1,10 @@
 # 💫 About Me:
-As a software engineering student with a passion for DevOps, I am committed to building and maintaining robust and scalable software solutions that help organizations achieve their goals. I have studied various DevOps tools and methodologies, such as continuous integration and delivery, containerization, and infrastructure automation, and I'm always looking to expand my knowledge and skills in this field.
 
-I am hoping to gain 
+As a software engineering student with a passion for technology, I am committed to building and maintaining robust and scalable software solutions that help organizations achieve their goals. I have studied various programming languages, frameworks, and methodologies, allowing me to work across the full stack of software development. From front-end interfaces to back-end systems, I thrive on creating cohesive and efficient solutions.
+
 Through my academic projects and internships, I am hoping to gain practical experience in software development and deployment, working closely with cross-functional teams to ensure seamless integration and delivery of software applications. I am a quick learner, a team player, and a problem solver, with excellent communication and collaboration skills.
 
-As I continue to pursue my career as a DevOps engineer, I am eager to work with like-minded professionals to build innovative solutions that enable organizations to deliver high-quality software faster and more reliably. If you're looking for a dedicated and skilled DevOps engineer to join your team, please don't hesitate to get in touch.
+As I continue to pursue my career, I plan to explore the field of data science in the long run, leveraging my strong foundation in software engineering to analyze and derive insights from complex datasets. If you're looking for a dedicated and skilled engineer to join your team, please don't hesitate to get in touch. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.khawar.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_khawar.80) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-k-b44781128) 
